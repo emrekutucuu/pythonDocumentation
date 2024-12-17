@@ -1,0 +1,10 @@
+> Microsoft SQL Server : DÜnyadaki en yaygın veri tabanlarından biridir.
+Bankalar, önemli şirketler kullanır
+> Oracle : Güçlü bir yapı, birçok firma tarafından kullanılıyor
+> MySQL : Oracle satın aldı. Ücretli-ücretsiz seçenekleri var. TR'de özellikle 
+PHP geliştiricilerinin kullandığı veri tabanı
+> SQLite : Kurulumu kolay, işlevselliği yüksek bir veritabanı. Sıklıkla kullanılıyor
+çünkü bir dosya üzerinden çalışabiliyoruz. Her ortamda kullanabiliyor
+> MongoDB : Data json formatında tutuluyor. Büyük verileri tutabiliyor. Geleceği amaçlayan,
+yani veriler üzerinde değişik, ekleme gibi işlemlerde daha hızlı hareket etmeyi amaçlıyor.
+> POSTGRESQL : Çok sık olmasada bazı büyük firmalarda kullanılıyor
